@@ -15,7 +15,12 @@ The type of system DriverPass wanted us to design consisted of various aspects a
 I believe I performed best on the analytical side of the project, obtaining the necessary information to suggest implementations that would further prove an effective and robust system. I also feel I did extremely well on the construction of the diagrams (with the help of many people, videos, and resources) which helped to enlighten and strengthen my understanding of various concepts and ideas. Overall, I am truly grateful for the help from everyone on my journey!
 
 # **If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?**
-If I could choose one part of my work on these documents to revise, I would choose to revise the UML Use Case Diagram. The ways I would improve it are by increasing the number of use cases, actors, and various relationships within the system to further encompass the processes. I was only able to utilize the free software, which only allowed for a certain number of objects/symbols.
+
+# **Revision**
+If I could choose one part of my work on these documents to revise, I would choose to revise the UML Use Case Diagram. 
+
+# **Improvements**
+The ways I would improve it are by increasing the number of use cases, actors, and various relationships within the system to further encompass the processes. I was only able to utilize the free software, which only allowed for a certain number of objects/symbols.
 
 # **How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?**
 
