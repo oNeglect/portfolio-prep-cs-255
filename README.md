@@ -39,9 +39,9 @@ My approach to designing software is quite simple. I understand that a clear min
 The techniques or strategies I would use for future use in conducting high-quality system design would be what I learned most in this course. Patience and time management when it comes to designing, understanding clients’ needs, and meditation/reflection. Taking delicate time to truly understand the client/stakeholder and implementing ethical and clear system design procedures are the techniques and strategies I will use in the future. That way, my design process can be utilized in a way that takes into account multiple perspectives and can be flexible at any time to some extent.
 
 # End
-**I am very grateful for the time given! Take care professor! Have a great rest of your day!**
-**Sincerely,**
-**Lawrence**
+I am very grateful for the time given! Take care professor! Have a great rest of your day!
+Sincerely,
+Lawrence
 
 
 
